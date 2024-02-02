@@ -16,7 +16,6 @@
 关于作者：
 1. 邮箱：ColorfulCore@outlook.com
 2. 哔哩哔哩：https://space.bilibili.com/1323451079?spm_id_from=333.337.0.0
-3. itch：
 
 本游戏永久免费，并会不断更新
 
